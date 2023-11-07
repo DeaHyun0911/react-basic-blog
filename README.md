@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React 블로그 앱
+패스트캠퍼스 강의 중 <React 블로그 앱 프로젝트> 수강을 통해 제작한 기본적인 블로그입니다.
 
 ## Available Scripts
 
